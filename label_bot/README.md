@@ -1,1 +1,1 @@
-Images used in the [Github Issues Classifier](https://github.com/GiorgosKarantonis/Github-Issues-Classifier). 
+Images used in the [Github Issues Classifier repo](https://github.com/GiorgosKarantonis/Github-Issues-Classifier). 
